@@ -4,8 +4,8 @@
 
 Подключение к публичной машине для проверки доступа в интернет:
 
-![Ответ на задание 1](https://github.com/Francotirado/cloud-1/blob/main/img/1.jpg)
+![Ответ на задание 1](https://github.com/Francotirado/cloud-1/blob/main/img/1.png)
 
 Подключение к приватной машине через публичную:
 
-![Ответ на задание 1](https://github.com/Francotirado/cloud-1/blob/main/img/2.jpg)
+![Ответ на задание 1](https://github.com/Francotirado/cloud-1/blob/main/img/2.png)
